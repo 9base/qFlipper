@@ -1,3 +1,9 @@
+> **9base status: Maintained Downstream.** Maintained Downstream of [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper). The local `dev` branch retains a device-information compatibility patch and a verified October 2026 upstream merge. Upstream project authorship and documentation remain below.
+>
+> Documentation reconstructed from repository history on 8 October 2026. See [9base provenance and patch notes](9BASE.md).
+
+---
+
 ## qFlipper
 
 ### Graphical desktop application for updating [Flipper Zero](https://flipperzero.one/) firmware via PC
